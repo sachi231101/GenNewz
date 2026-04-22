@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "GenNewz",
+    "slug": "gennewz",
+    "scheme": "gennewz",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": ["**/*"],
+    "plugins": ["expo-router", "expo-notifications"],
+    "experiments": { "typedRoutes": true }
+  }
+}
